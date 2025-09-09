@@ -3,8 +3,8 @@
 ## depends
 
 ### libraries
-- [raylib](raylib.com) - need to be installed on system
-- [nob.h](github.com/tsoding/nob.h) - included
+- [raylib](https://www.raylib.com) - need to be installed on system
+- [nob.h](https://www.github.com/tsoding/nob.h) - included
 
 ### os
 - Linux x86_64
